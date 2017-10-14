@@ -1,8 +1,4 @@
-users\Application.class
-users\MainController.class
-users\IncomingRecordRepository.class
-users\incomingReportRepository.class
-users\IncomingRecord.class
-users\incomingReport.class
-users\UserRepository.class
-users\User.class
+users/IncomingRecord.class
+users/IncomingRecordRepository.class
+users/OutgoingRecord.class
+users/OutgoingRecordRepository.class
